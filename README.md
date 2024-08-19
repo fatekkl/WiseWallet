@@ -5,5 +5,3 @@ Você pode visualizar o design completo do projeto no Figma através deste [link
 <p align="center">
   <img src="Dashboard.png" alt="Descrição da Imagem" />
 </p>
-
-
