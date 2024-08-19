@@ -5,3 +5,12 @@ Você pode visualizar o design completo do projeto no Figma através deste [link
 <p align="center">
   <img src="Dashboard.png" alt="Descrição da Imagem" />
 </p>
+<p align="center">
+  <img src="Analytics.png" alt="Descrição da Imagem" />
+</p>
+<p align="center">
+  <img src="Cards.png" alt="Descrição da Imagem" />
+</p>
+<p align="center">
+  <img src="Configs.png" alt="Descrição da Imagem" />
+</p>
